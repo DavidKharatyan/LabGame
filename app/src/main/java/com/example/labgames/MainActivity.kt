@@ -9,7 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    public fun startNewActivity(View v) {
 
-    }`
 }
